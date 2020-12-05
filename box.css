@@ -10,7 +10,5 @@
   width: 100px;
   height: 100px;
   background-color: red;
-
-  /* 指定方法（box2の周囲全てに枠線を固定する*/
   border: 5px solid yellow;
 }
